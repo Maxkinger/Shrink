@@ -46,7 +46,7 @@ WidgetMetadata = {
                     { title: "BANDAI Channel", value: "888"},
                     { title: "myVideo", value: "3801"},
                     { title: "LiTV", value: "6150"},
-                    { title: "Hami Video", value: "Hami Video"},
+                    { title: "Hami Video", value: "4571"},
                     { title: "KKTV", value: "1975"}
                 ]
             },
