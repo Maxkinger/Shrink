@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "forward.tmdb",
   title: "自用-TMDB",
-  version: "0.0.4",
+  version: "0.0.5",
   requiredVersion: "0.0.1",
   author: "xxx",
   modules: [
@@ -34,9 +34,11 @@ WidgetMetadata = {
                     { title: "Amazon Prime Video", value: "1024" },
                     { title: "Paramount", value: "576" },
                     { title: "Paramount+", value: "4330" },
+                    { title: "TVing", value: "3897"},
                     { title: "Wavve", value: "3357"},
                     { title: "TV Tokyo", value: "94" },
                     { title: "Line TV", value: "1671"},
+                    { title: "HamiVideo", value: "4571"},
                     { title: "WeTV", value: "3732"},
                     { title: "iQIYI 国际", value: "6316"},
                     { title: "Youtube", value: "247"}
