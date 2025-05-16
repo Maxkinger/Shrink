@@ -1,4 +1,4 @@
-# FW-Widgets
+# Shrink
 <p align="center">
   <br>
   <img width="150" src="./icon.png">
