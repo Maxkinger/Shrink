@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "forward.tmdb",
   title: "自用-TMDB",
-  version: "0.0.2",
+  version: "0.0.3",
   requiredVersion: "0.0.1",
   author: "xxx",
   modules: [
@@ -34,16 +34,19 @@ WidgetMetadata = {
                     { title: "Amazon Prime Video", value: "1024" },
                     { title: "Paramount", value: "576" },
                     { title: "Paramount+", value: "4330" },
-                    { title: "TV Tokyo", value: "94" },
+
                     { title: "TVing", value: "3897"},
                     { title: "Wavve", value: "3357"},
                     { title: "Coupang Play", value: "5169"},
-                    { title: "Line TV", value: "1671"},
+
+                    { title: "TV Tokyo", value: "94" },
                     { title: "U-NEXT", value: "3869"},
                     { title: "dTV", value: "2137"},
                     { title: "FOD", value: "2763"},
                     { title: "Hulu Japan", value: "1772"},
                     { title: "BANDAI Channel", value: "888"},
+                    
+                    { title: "Line TV", value: "1671"},
                     { title: "myVideo", value: "3801"},
                     { title: "LiTV", value: "6150"},
                     { title: "Hami Video", value: "4571"},
