@@ -1,0 +1,15 @@
+{
+  "title": "xxx's Widgets",
+  "description": "xxxx",
+  "widgets": [
+    {
+      "id": "forward.tmdb",
+      "title": "Tmdb",
+      "description": "自用Tmdb",
+      "requiredVersion": "0.0.1",
+      "version": "0.0.1",
+      "author": "xxx",
+      "url": "https://raw.githubusercontent.com/Maxkinger/FWidgets/refs/heads/master/Widgets/SelfWidgets.js"
+    }
+  ]
+}
