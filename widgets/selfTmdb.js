@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "forward.tmdb",
   title: "自用-TMDB",
-  version: "0.0.1",
+  version: "0.0.2",
   requiredVersion: "0.0.1",
   author: "xxx",
   modules: [
