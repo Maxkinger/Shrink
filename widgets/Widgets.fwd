@@ -1,6 +1,7 @@
 {
   "title": "xxx's Widgets",
   "description": "xxxx",
+  "icon": "https://raw.githubusercontent.com/Maxkinger/Shrink/refs/heads/master/icon.png",
   "widgets": [
     {
       "id": "forward.tmdb",
