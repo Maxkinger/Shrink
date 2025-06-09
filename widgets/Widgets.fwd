@@ -7,9 +7,9 @@
       "title": "Tmdb",
       "description": "自用Tmdb",
       "requiredVersion": "0.0.1",
-      "version": "0.0.5",
+      "version": "1.0.0",
       "author": "xxx",
-      "url": "https://raw.githubusercontent.com/Maxkinger/Shrink/refs/heads/master/widgets/selfTmdb.js"
+      "url": "https://raw.githubusercontent.com/Maxkinger/Shrink/refs/heads/master/widgets/js/tmdb.js"
     }
   ]
 }
